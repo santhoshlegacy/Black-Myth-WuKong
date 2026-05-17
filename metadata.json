@@ -1,0 +1,6 @@
+{
+  "name": "Wukong: The Prophecy",
+  "description": "A mystical scrollytelling experience inspired by Black Myth: Wukong, featuring parallax transitions and premium UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
